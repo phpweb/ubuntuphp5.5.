@@ -1,1 +1,1 @@
-# vagrant_ubuntu1404_php5.6
+# vagrant_ubuntu1404_php5.5
